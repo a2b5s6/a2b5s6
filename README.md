@@ -13,6 +13,6 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/pedro-henrique-seara-de-almeida-845560278/" target="_blanck"/> <img src="https://img.shilds.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&lokoColor=white" target="_blanck"/>
+  <a href="https://www.linkedin.com/in/pedro-henrique-seara-de-almeida-845560278/" target="_blanck"/> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style-for-the-badge&logo=linkedin&lokoColor=white" target="_blanck"/>
   
 </div>
