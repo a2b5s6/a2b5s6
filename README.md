@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/a2b5s6">
   <img height= "180em" src = "https://github-readme-stats.vercel.app/api?username=a2b5s6&show_icons=true&theme=dark"/>
-   <img height= "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a2b5s6&layout=compact&langs_count=16%theme=dark"/>
+   <img height= "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a2b5s6&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="PA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
